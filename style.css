@@ -1,0 +1,12 @@
+/* CSS files add styling rules to your content */
+body {
+  background-color: black;
+  font-family: helvetica, arial, sans-serif;
+  margin: 0em;
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+
+h1 {
+  /*font-style: italic;*/
+  color: #ffffff;
+}
